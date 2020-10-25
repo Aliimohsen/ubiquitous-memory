@@ -1,0 +1,14 @@
+.products{;text-align:center;padding:100px}
+
+span{font-size:20px;}
+
+
+.first {width:60%;height:600px;padding:40px}
+ 
+
+.bignext {overflow:auto;width:100%;margin:200px ;float:left;background:#f8f8f8;margin-left:70px}
+.clr{clear:both}
+.next1{float:left;width:500px;height:500px;overflow:auto}
+.next{float:right;margin-right:250px;padding:100px;}
+
+.last {text-align:center;}
